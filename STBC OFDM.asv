@@ -1,0 +1,8 @@
+clear all
+
+% STBC OFDM in frequency selective channel based on one ring model
+
+load channel_profile.am;
+
+rho = channel_profile;
+
